@@ -1,0 +1,39 @@
+💻 Operating Systems Lab (CSE)
+This repository contains implementations of fundamental Operating System concepts performed during lab sessions. Each experiment focuses on core OS principles with practical execution using C programs and Shell scripting.
+
+📌 Experiments Included
+🔹 Linux & Process Management
+Linux Basics
+
+File handling, directory navigation, and basic commands.
+Process Management
+
+Commands like ps, top, and kill to monitor and control processes.
+Process Creation (Forking)
+
+Creation of parent and child processes using fork().
+🔹 CPU Scheduling Algorithms
+FCFS (First Come First Served)
+
+Non-preemptive scheduling based on arrival time.
+SJF / SRTF
+
+Shortest Job First (Non-preemptive)
+Shortest Remaining Time First (Preemptive)
+Priority Scheduling
+
+Preemptive and Non-preemptive approaches based on priority.
+🔹 Deadlock & Memory Management
+Banker’s Algorithm
+
+Deadlock avoidance technique using safe state checking.
+FIFO Page Replacement
+
+Memory management using First-In-First-Out strategy.
+🔹 Shell Scripting
+Shell Basics
+
+Variables, input/output, and arithmetic operations in Bash.
+Shell Conditional Logic
+
+Implementation of if-else statements in shell scripts.
